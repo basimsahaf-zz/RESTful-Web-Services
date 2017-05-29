@@ -1,0 +1,27 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "preparing for marketcircle inc",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basimsahaf/RESTful-Web-Services.git"
+  },
+  "author": "Basim Sahaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basimsahaf/RESTful-Web-Services/issues"
+  },
+  "homepage": "https://github.com/basimsahaf/RESTful-Web-Services#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.27"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
